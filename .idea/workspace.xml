@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d3fdb0e-320d-4e95-b83c-7fc7f6f9a44b" name="Changes" comment="Просто смотрю как гит работает при создании 2-ой ветки." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOUcgUfM8AAAABDruxSQ&quot;,
+        &quot;number&quot;: 1
+      },
+      &quot;lastSeen&quot;: 1789816583900
+    },
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOUcgUfM8AAAABENJTWw&quot;,
+        &quot;number&quot;: 2
+      },
+      &quot;lastSeen&quot;: 1789836657657
+    }
+  ]
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BirkinDS/Python_Core.git&quot;,
+    &quot;accountId&quot;: &quot;549501b2-396d-4108-98c8-d7c7ff671ce8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JNTpAaSFVc68wQtf6A1jtt4bj9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.task_1.executor": "Run",
+    "Python.task_10.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
+    "Python.task_5.executor": "Run",
+    "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_8.executor": "Run",
+    "Python.task_9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Birki/PycharmProjects/Python_Core/home_work_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Birki\PycharmProjects\Python_Core\home_work_2" />
+      <recent name="C:\Users\Birki\PycharmProjects\Python_Core\home_work_1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d3fdb0e-320d-4e95-b83c-7fc7f6f9a44b" name="Changes" comment="" />
+      <created>1789500706972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789500706972</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add homework 1-5.">
+      <option name="closed" value="true" />
+      <created>1789511432458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789511432458</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Удалил файл first_file.py">
+      <option name="closed" value="true" />
+      <created>1789737735887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789737735887</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add task 6-10.">
+      <option name="closed" value="true" />
+      <created>1789807555293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789807555293</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Просто смотрю как гит работает при создании 2-ой ветки.">
+      <option name="closed" value="true" />
+      <created>1789814969565</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1789814969565</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Просто смотрю как гит работает при создании 2-ой ветки.">
+      <option name="closed" value="true" />
+      <created>1789816205814</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789816205814</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Просто смотрю как гит работает при создании 2-ой ветки.">
+      <option name="closed" value="true" />
+      <created>1789923150348</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1789923150348</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Просто смотрю как гит работает при создании 2-ой ветки.">
+      <option name="closed" value="true" />
+      <created>1789923155010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1789923155010</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add homework 1-5." />
+    <MESSAGE value="Удалил файл first_file.py" />
+    <MESSAGE value="Add task 6-10." />
+    <MESSAGE value="Просто смотрю как гит работает при создании 2-ой ветки." />
+    <option name="LAST_COMMIT_MESSAGE" value="Просто смотрю как гит работает при создании 2-ой ветки." />
+  </component>
+</project>
