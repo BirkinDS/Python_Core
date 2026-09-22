@@ -6,3 +6,26 @@
 # Любой неизвестный статус необходимо пропустить и не учитывать в статистике.
 
 # solution
+n = int(input("Введите количество автотестов: "))
+passed = 0
+failed = 0
+skipped = 0
+for i in range(n):
+    status = input("Введите результат теста (PASS/FAIL/SKIP): ").strip().upper()
+    if status == "PASS":
+        passed += 1
+    elif status == "FAIL":
+        failed += 1
+    elif status == "SKIP":
+        skipped += 1
+    else:
+        print("Неизвестный статус, пропускаем")
+print()
+print("=== Итоговая статистика ===")
+print("PASS:", passed)
+print("FAIL:", failed)
+print("SKIP:", skipped)
+if failed > 0:
+    print("Внимание: есть упавшие тесты!")
+else:
+    print("Все выполненные тесты пройдены успешно!")

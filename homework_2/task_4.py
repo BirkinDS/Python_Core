@@ -4,3 +4,15 @@
 # После правильного ответа необходимо вывести сообщение об успехе и количество совершенных попыток.
 
 # solution
+secret = 37
+attempts = 0
+while True:
+    number = int(input("Введите число: "))
+    attempts += 1
+    if number < secret:
+        print("Секретное число больше")
+    elif number > secret:
+        print("Секретное число меньше")
+    else:
+        print("Вы угадали! Количество попыток:", attempts)
+        break
