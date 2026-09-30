@@ -28,8 +28,12 @@ total = len(results)
 
 print("Всего тестов:", total)
 
+for key in ["PASS", "FAIL", "SKIP"]:
+    print(key + ":", stats.get(key, 0))
+
 for key in stats:
-    print(key + ":", stats[key])
+    if key not in ["PASS", "FAIL", "SKIP"]:
+        print(key + ":", stats[key])
 
 pass_count = stats.get("PASS", 0)
 percent = pass_count / total * 100
