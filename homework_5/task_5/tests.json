@@ -1,0 +1,9 @@
+[
+    {"name": "test_login", "status": "PASS", "time": 1.5},
+    {"name": "test_logout", "status": "FAIL", "time": 2.0},
+    {"name": "test_register", "status": "PASS", "time": 3.2},
+    {"name": "test_delete_user", "status": "SKIP", "time": 0.5},
+    {"name": "test_update_profile", "status": "FAIL", "time": 4.8},
+    {"name": "test_search", "status": "PASS", "time": 2.5},
+    {"name": "test_upload_file", "status": "SKIP", "time": 1.1}
+]

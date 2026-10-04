@@ -6,7 +6,7 @@
 with open("numbers.txt") as file:
     line = file.read().strip()
 
-numbers = [int(ch) for ch in line if ch.isdigit()]
+numbers = [int(num) for num in line.replace(",", " ").split()]
 if len(numbers) < 3:
     print("Ошибка: в файле меньше 3-х чисел")
 else:
