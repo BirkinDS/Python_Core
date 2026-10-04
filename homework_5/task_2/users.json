@@ -1,7 +1,0 @@
-[
-    {"login": "admin", "password": "admin123", "expected": "success"},
-    {"login": "user1", "password": "qwerty", "expected": "success"},
-    {"login": "user1", "password": "wrongpass", "expected": "fail"},
-    {"login": "blocked_user", "password": "12345", "expected": "fail"},
-    {"login": "guest", "password": "", "expected": "fail"}
-]
