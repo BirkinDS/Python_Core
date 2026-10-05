@@ -18,7 +18,7 @@ def set_test_params(retries, timeout):
     if timeout <= 0:
         raise ValueError(f"Таймаут должен быть положительным числом: {timeout}")
 
-    # Если все проверки прошли — возвращаем настройки
+    # Если все проверки прошли - возвращаем настройки
     return {"retries": retries, "timeout": timeout}
 
 # 1. Корректные значения

@@ -9,7 +9,6 @@
 # solution
 import json
 from functools import reduce
-
 input_file = "tests.json"
 output_file = "report.json"
 
@@ -30,7 +29,6 @@ try:
         for field in ["name", "status", "time"]:
             if field not in test:
                 raise ValueError(f"У теста #{i} отсутствует поле '{field}'")
-
     # --- Дальше считаем отчёт ---
     # Общее количество тестов
     total = len(tests)
