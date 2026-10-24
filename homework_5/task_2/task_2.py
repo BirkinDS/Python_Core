@@ -7,7 +7,6 @@
 
 # solution
 import json
-
 # Имя файла с тестовыми пользователями
 filename = "users.json"
 
@@ -15,7 +14,6 @@ try:
     # Пытаемся открыть файл
     with open(filename, "r", encoding="utf-8") as f:
         data = json.load(f)
-
     # Проверяем, что в файле именно список
     if not isinstance(data, list):
         print("Ошибка: в файле должен быть список пользователей")
@@ -34,7 +32,7 @@ try:
                 print(f"  Ожидаемый результат: {expected}")
 
             except KeyError as e:
-                # Если какого-то поля нет — KeyError подскажет какого именно
+                # Если какого-то поля нет
                 print(f"Пользователь #{i}: отсутствует обязательное поле {e}")
 
 except FileNotFoundError as e:
@@ -44,5 +42,5 @@ except json.JSONDecodeError as e:
 except PermissionError as e:
     print(f"Нет доступа к файлу: {e}")
 except Exception as e:
-    # На всякий случай — любая другая ошибка
+    # Любая другая ошибка
     print(f"Произошла непредвиденная ошибка: {e}")

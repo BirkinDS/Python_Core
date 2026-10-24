@@ -13,13 +13,12 @@ def check_status(status):
     # Список допустимых статусов
     allowed = ["PASS", "FAIL", "SKIP"]
 
-    # Если статус не входит в список — поднимаем свою ошибку
+    # Если статус не входит в список - поднимаем свою ошибку
     if status not in allowed:
         raise InvalidTestStatusError(f"Недопустимый статус теста: '{status}'. Разрешены только: PASS, FAIL, SKIP")
 
-    # Если всё хорошо — возвращаем статус
+    # Если всё хорошо - возвращаем статус
     return status
-
 # 1. Корректный статус
 try:
     result = check_status("PASS")

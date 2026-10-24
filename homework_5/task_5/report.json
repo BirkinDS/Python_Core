@@ -1,0 +1,15 @@
+{
+    "total_tests": 7,
+    "passed": 3,
+    "failed": 2,
+    "skipped": 2,
+    "failed_tests": [
+        "test_logout",
+        "test_update_profile"
+    ],
+    "longest_test": {
+        "name": "test_update_profile",
+        "time": 4.8
+    },
+    "total_time": 15.6
+}
